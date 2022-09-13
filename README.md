@@ -1,7 +1,7 @@
   <div style="display: inline_block"><br>
-  <img align="center" alt="7433-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="7433-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="7433-J" height="75" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="7433-J" height="75" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="7433-C" height="65" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
         
 </div>
 
